@@ -22,9 +22,6 @@ I'm an MCA student passionate about Full Stack Development and building scalable
 
 ## 📌 Featured Projects
 
-### 📷 Image Sharing Platform
-A full-stack web application for uploading, sharing, and managing images with secure authentication.
-
 ### 🛒 Shop Management System
 Inventory and customer management application built using the MERN stack.
 
